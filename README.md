@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on CIS5550 Internet_and_Web_Systems: A mini-Google search engine from ***scratch*** writen by Java
+- 📫 How to reach me: zhengyt1@gmail.com or zhengyt@seas.upenn.edu
+- 😄 Pronouns: She/Her/Hers
+
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
