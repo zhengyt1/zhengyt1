@@ -22,4 +22,13 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
+
+```text
+From: 28 March 2023 - To: 04 April 2023
+
+Total Time: 10 mins
+
+Java   10 mins         █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
