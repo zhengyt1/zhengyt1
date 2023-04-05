@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on CIS5550 Internet_and_Web_Systems: A mini-Google search engine from ***scratch*** writen by Java
+- 🔭 I’m currently working on CIS5550 Internet_and_Web_Systems: A mini-Google search engine from ***scratch*** writen by Java, and CIS5450 Big_Data_Analytics
 - 📫 How to reach me: zhengyt1@gmail.com or zhengyt@seas.upenn.edu
 - 😄 Pronouns: She/Her/Hers
 
