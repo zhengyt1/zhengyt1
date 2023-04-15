@@ -24,14 +24,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 April 2023 - To: 13 April 2023
+From: 07 April 2023 - To: 14 April 2023
 
-Total Time: 15 hrs 14 mins
+Total Time: 11 hrs 32 mins
 
-Java         13 hrs 28 mins  ██████████████████████░░░   88.44 %
-JavaScript   48 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
-JSON         40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
-Python       16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+Java         9 hrs 4 mins    ███████████████████▓░░░░░   78.68 %
+JSON         1 hr 20 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.63 %
+JavaScript   50 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 %
+Python       16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
