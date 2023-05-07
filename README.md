@@ -24,15 +24,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 April 2023 - To: 05 May 2023
+From: 29 April 2023 - To: 06 May 2023
 
-Total Time: 6 hrs 37 mins
+Total Time: 8 hrs 36 mins
 
-Java         4 hrs 14 mins   ████████████████░░░░░░░░░   64.03 %
-Python       2 hrs           ███████▓░░░░░░░░░░░░░░░░░   30.28 %
-JavaScript   16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
-Properties   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
-SSH Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+JavaScript   3 hrs 39 mins   ██████████▓░░░░░░░░░░░░░░   42.46 %
+Python       2 hrs 4 mins    ██████░░░░░░░░░░░░░░░░░░░   24.06 %
+CSS          1 hr 26 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.73 %
+Java         1 hr 21 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.72 %
+Properties   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
 ```
 
 <!--END_SECTION:waka-->
