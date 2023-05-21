@@ -24,15 +24,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 May 2023 - To: 19 May 2023
+From: 13 May 2023 - To: 20 May 2023
 
-Total Time: 2 hrs 58 mins
+Total Time: 47 mins
 
-JavaScript   2 hrs 34 mins   █████████████████████▓░░░   86.56 %
-JSON         13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 %
-CSS          7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
-HTML         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+JavaScript   30 mins         ████████████████░░░░░░░░░   64.57 %
+JSON         13 mins         ███████░░░░░░░░░░░░░░░░░░   27.75 %
+HTML         3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 %
+Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
 
 <!--END_SECTION:waka-->
