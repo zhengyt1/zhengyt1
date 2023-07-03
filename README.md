@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 June 2023 - To: 01 July 2023
+From: 25 June 2023 - To: 02 July 2023
 
-Total Time: 0 secs
+Total Time: 30 mins
 
-No activity tracked
+Java   30 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
