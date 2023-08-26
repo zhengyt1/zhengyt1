@@ -24,15 +24,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 August 2023 - To: 24 August 2023
+From: 18 August 2023 - To: 25 August 2023
 
-Total Time: 4 hrs 32 mins
+Total Time: 1 hr 5 mins
 
-TypeScript   2 hrs 27 mins   █████████████▓░░░░░░░░░░░   54.01 %
-Java         1 hr 20 mins    ███████▒░░░░░░░░░░░░░░░░░   29.58 %
-Markdown     29 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.91 %
-Python       14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Java     51 mins         ███████████████████▓░░░░░   78.57 %
+Python   14 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.43 %
 ```
 
 <!--END_SECTION:waka-->
