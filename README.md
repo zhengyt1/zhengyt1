@@ -24,12 +24,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 August 2023 - To: 25 August 2023
+From: 19 August 2023 - To: 26 August 2023
 
-Total Time: 1 hr 5 mins
+Total Time: 2 mins
 
-Java     51 mins         ███████████████████▓░░░░░   78.57 %
-Python   14 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.43 %
+Python   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
