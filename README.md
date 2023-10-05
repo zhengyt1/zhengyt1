@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently interning at NIO Autonomous Driving Technology Co., Ltd as a cloud engineer.
+- 🔭 I’m currently studing at UPenn, working on full-stack web, network communication, distributed system projects.
 - 📫 How to reach me: zhengyt1@gmail.com or zhengyt@seas.upenn.edu
 - 😄 Pronouns: She/Her/Hers
 
